@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**AANIKAA36/AANIKAA36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Marzana Akter Anika 👋  
 
-Here are some ideas to get you started:
+🎓 CSE undergraduate at **Green University of Bangladesh (Batch 221)**  
+💡 Passionate about **AI, Machine Learning, and Software Development**  
+🚀 Participant in **NASA Space Apps Challenge 2024**  
+🌱 Currently exploring **frontend projects & AI fairness**  
+🤝 Active in **GUCC, IEEE, BASIS Students Forum**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack  
+- **Languages:** Java, Python, C, C++  
+- **Databases:** Oracle 19c, MySQL  
+- **Frontend:** HTML, CSS, JavaScript  
+- **Tools:** Git, VS Code, Eclipse  
+
+---
+
+### 📈 GitHub Stats  
+![Anika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AANIKAA36&show_icons=true&theme=default&hide_border=true)  
+
+---
+
+✨ *“Turning ideas into impact with code and collaboration.”*  
+
