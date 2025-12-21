@@ -29,11 +29,15 @@
 
 ---
 
-## ⚡ Fun Facts  
-- 💻 Love building **frontend projects & ML experiments**  
-- 📚 Always eager to **learn, build, and share**  
-- ☕ Runs on **coffee & curiosity**  
+⚡ Fun Facts
 
+🎮 Love playing games and watching anime
+
+💻 Enjoy building frontend projects and ML experiments
+
+📚 Always eager to learn build and share
+
+☕ Runs on coffee and curiosity
 ---
 
 ✨ *“Turning ideas into impact with code and collaboration.”*  
